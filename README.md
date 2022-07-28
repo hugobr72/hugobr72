@@ -5,7 +5,7 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugobr72&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugobr72&layout=compact&langs_count=6&theme=radical"/>
 </div>
- <h3 align="center">Tecnologias já estudas e em estudo
+ <h3 align="center">Tecnologias Utilizadas
   <div align="center" valign="top">
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -16,14 +16,14 @@
  </div>
  <br>
  
-  ### Para mais informções!
+  ### Links para minhas redes sociais!
  
+<div align="center" valign="top">
 <div> 
- 
   <a href="https://instagram.com/hugobrod_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:hugobrod72@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/hugo-barbosa-rodrigues-090797243/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+ </div>
   ![Snake animation](https://github.com/hugobr72/hugobr72/blob/output/github-contribution-grid-snake.svg)
 
 </div>
