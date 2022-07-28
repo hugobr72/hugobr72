@@ -17,7 +17,7 @@
  <br>
  
  
-  <h3 align="center">Redes sociais!
+  <h3 align="center">Redes sociais!>
    <br>
  <div align="center">
 <div> 
