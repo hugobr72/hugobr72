@@ -5,7 +5,7 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugobr72&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugobr72&layout=compact&langs_count=6&theme=radical"/>
 </div>
- <h3 align="center">Tecnologias Utilizadas
+ <h3 align="center">Tecnologias Utilizadas No Meu Dia a Dia
   <div align="center" valign="top">
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
