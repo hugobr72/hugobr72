@@ -8,7 +8,7 @@
  <h3 align="center">Tecnologias Utilizadas No Meu Dia a Dia</h3>
   <div align="center" valign="top">
 <div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -20,7 +20,7 @@
   <ul>
   <li>JavaScript</li>
   <li>Python</li>
-  <li>Estou cursando o curso de Análise e desenvolvimento de sistemas</li>
+  <li>Estou cursando atualmente o curso de Análise e desenvolvimento de sistemas</li>
   </ul>
  </div> 
  
