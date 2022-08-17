@@ -16,7 +16,9 @@
 </div>
  </div>
  <div>
- ##Ultimamente estudo 
+ <h1 align="center"> Tecnologias Que Estou Estudando</h1>
+  <p>JavaScript</p>
+  <p>Python</p>
  </div> 
  
  <br>
