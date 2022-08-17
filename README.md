@@ -17,9 +17,11 @@
  </div>
  <div>
  <h3 align="center"> Tecnologias Que Estou Estudando</h3>
-  <p>JavaScript</p>
-  <p>Python</p>
-  <p>Estou cursando o curso de Análise e desenvolvimento de sistemas </p>
+  <ul>
+  <li>JavaScript</li>
+  <li>Python</li>
+  <li>Estou cursando o curso de Análise e desenvolvimento de sistemas</li>
+  </ul>
  </div> 
  
  <br>
