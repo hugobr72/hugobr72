@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil de Hugo Barbosa Rodrigues  😁
+<h1 align="center">Bem-vindo(a) ao perfil de Hugo Barbosa Rodrigues  😁</h1>
  <div>
  <div>
    <a href="https://github.com/hugobr72">
