@@ -1,6 +1,6 @@
 <h1 align="center">Bem-vindo(a) ao perfil de Hugo Barbosa Rodrigues  😁</h1>
  <div>
- <div>
+ <div align="center">
    <a href="https://github.com/hugobr72">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugobr72&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugobr72&layout=compact&langs_count=6&theme=radical"/>
