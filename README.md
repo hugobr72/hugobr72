@@ -22,7 +22,7 @@
   <ul>
   <li>JavaScript</li>
   <li>Python</li>
-  <li>Atualmente curso de Análise e desenvolvimento de sistemas</li>
+  <li>Atualmente Curso Análise e desenvolvimento de sistemas</li>
   </ul>
  </div> 
  
