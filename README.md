@@ -21,6 +21,7 @@
  <h3 align="center"> Tecnologias Que Estou Estudando</h3>
   <ul>
   <li>JavaScript</li>
+  <li>JavaScript POO</li>
   <li>Python</li>
   <li>Atualmente Curso Análise e desenvolvimento de sistemas</li>
   </ul>
