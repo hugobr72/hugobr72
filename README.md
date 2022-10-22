@@ -21,6 +21,7 @@
   <ul>
   <li>JavaScript</li>
   <li>JavaScript POO</li>
+  <li>React Js</li>
   <li>Python</li>
   <li>Atualmente Curso Análise e desenvolvimento de sistemas</li>
   </ul>
